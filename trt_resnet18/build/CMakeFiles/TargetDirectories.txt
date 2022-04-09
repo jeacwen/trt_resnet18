@@ -1,0 +1,3 @@
+/home/wending/user/01code/c++/trt/trt_resnet18/build/CMakeFiles/rebuild_cache.dir
+/home/wending/user/01code/c++/trt/trt_resnet18/build/CMakeFiles/Demo.dir
+/home/wending/user/01code/c++/trt/trt_resnet18/build/CMakeFiles/edit_cache.dir
